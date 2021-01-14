@@ -24,3 +24,17 @@ li a:hover{
 .txt-highlight-3{
     color:#363958 ;
 }
+.input-type{
+   border:0px;
+   height: 40px;
+   width: 300px;
+   border-radius: 10px;
+   border-bottom: 1px solid rgb(147, 211, 147);
+}
+h6{
+    font-size: small;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
